@@ -23,7 +23,7 @@
 </template>
 
 <script setup lang="ts">
-import maplibregl, { Color } from 'maplibre-gl';
+import maplibregl from 'maplibre-gl';
 import SelectionIMG from './assets/symbol_selection.png'
 import 'maplibre-gl/dist/maplibre-gl.css';
 import { computed, onMounted, Ref, ref, watch } from 'vue';
