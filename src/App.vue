@@ -344,7 +344,7 @@ onMounted(async () => {
     background-color: white;
     color: black;
     padding: 1rem;
-    bottom: 0;
+    top: 0;
     right: 0;
     position: absolute;
     z-index: 1000;
